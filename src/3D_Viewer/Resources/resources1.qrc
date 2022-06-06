@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>Shaders/vertex_shader.glsl</file>
+        <file>Shaders/fragment_shader.glsl</file>
+    </qresource>
+    <qresource prefix="/settings">
+        <file>SettingsConf/setting_current.conf</file>
+        <file>SettingsConf/setting_default.conf</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Icons button/settings3.png</file>
+    </qresource>
+</RCC>

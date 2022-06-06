@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons button/settings.icns</file>
+        <file>Icons button/settings2.png</file>
+        <file>Icons button/settings3.png</file>
+    </qresource>
+    <qresource prefix="/SettingsFiles">
+        <file alias="set_curr.conf">SettingsConf/setting_current.conf</file>
+        <file alias="set_def.conf">SettingsConf/setting_default.conf</file>
+    </qresource>
+</RCC>
